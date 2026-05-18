@@ -1,3 +1,14 @@
+# /// script
+# requires-python = ">=3.14"
+# dependencies = [
+#     "ase",
+#     "matplotlib",
+#     "nglview",
+#     "numpy",
+#     "py3dmol",
+#     "scipy",
+# ]
+# ///
 import os
 from ase.build import molecule
 from ase import Atoms
